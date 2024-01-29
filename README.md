@@ -15,7 +15,7 @@ Download csv file - https://github.com/sumaiyamahmud/supermarket_sales_analysis/
 
 Overall Sales Performance:
 
-![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/aeea97e3-3636-4759-8a1d-8fe588d89004)
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/749aad06-5e3c-44f3-a2f8-b1f095364f98)
 
  According to the bar chart, Naypyitaw emerges as the top-performing city, showcasing superior sales performance and market leadership within the supermarket chain.
 
