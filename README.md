@@ -78,19 +78,26 @@ Drilling down into specific hours revealed when certain product categories exper
 
 ![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/27207874-e016-499f-8f36-8f28552eefd0)
 
-
-
-
-### Payment Methods
-Preferred Payment Method:
-Investigating the most preferred payment method among customers illuminated trends in the evolving landscape of retail transactions.
+Fashion steals the spotlight at 13:00 hrs.
+Health and Beauty takes center stage at 14:00 hrs.
+Food experiences peak sales excitement at 19:00 hrs.
+Home and Lifestyle shines brightest at 17:00 hrs.
+Sports enthusiasts indulge in shopping at 19:00 hrs. 🌟🕒🛍️
 
 ### Branch Comparison
 Branch Performance:
 Comparing the performance of each branch unearthed key indicators of success and opportunities for improvement.
 
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/9af1f6f0-c79b-4a19-93b5-299a54690bde)
+
+As the graph shows, Naypyitaw performs slightly better in terms of overall sales and gross income compared to the other two branches.
+
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/4dc8b162-4a20-4b13-b416-c31d79f90e64)
+
+
+
 Product Category Performance by Branch:
-Identifying specific product categories that outperformed in certain branches guided strategic stocking and marketing decisions.
+Identifying specific product categories that outperformed in certain branches guides strategic stocking and marketing decisions.
 
 ### Customer Satisfaction
 Customer Satisfaction Variations:
