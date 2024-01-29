@@ -1,17 +1,22 @@
 # Supermarket Sales Analysis Project
+
 ## Overview
+
 Welcome to the Supermarket Sales Analysis project, where I delve into the heart of a bustling supermarket chain spanning three vibrant cities in India. For this self-guided project, I embarked on a data-driven journey to unravel the intricacies of sales performance, customer behavior, and product dynamics.
 
 
 ## Tools and Technologies Used
+
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 
 ## Data Source
-Download csv file - https://github.com/sumaiyamahmud/supermarket_sales_analysis/blob/main/supermarket_sales.csv 
+
+Download csv file here - https://github.com/sumaiyamahmud/supermarket_sales_analysis/blob/main/supermarket_sales.csv 
 
 ## Exploratory Data Analysis (EDA)
+
 ### Overall Performance
 
 Overall Sales Performance:
@@ -150,8 +155,9 @@ The analysis is constrained by a limited dataset spanning only three months, res
 
 ### References
 
-[YouTube]https://www.youtube.com/watch?v=KgCgpCIOkIs
-[Seaborn Palettes]https://seaborn.pydata.org/tutorial/color_palettes.html
+https://www.youtube.com/watch?v=KgCgpCIOkIs
+
+https://seaborn.pydata.org/tutorial/color_palettes.html
 
 
 
