@@ -141,6 +141,7 @@ Analyzing the gross margin percentage for different product categories provided 
 The analysis reveals a uniformity in gross margin percentages across all product categories, indicating a consistent profitability trend throughout the diverse range of offerings. 📊💰
 
 ### Long-Term Trends
+
 Long-Term Trends Identification:
 
 A comprehensive forecast for the upcoming three months has been meticulously conducted, shedding light on anticipated trends and paving the way for strategic planning. 📈🔮
@@ -149,11 +150,11 @@ A comprehensive forecast for the upcoming three months has been meticulously con
 
 The forecast paints a challenging picture with an anticipated decrease in sales over the next three months. This insight underscores the need for proactive strategies and targeted efforts to overcome forthcoming challenges and enhance sales performance. 📉🔄💼
 
-### Limitations
+## Limitations
 
 The analysis is constrained by a limited dataset spanning only three months, restricting a comprehensive understanding of both past and future trends. To gauge the business's true trajectory and performance, an extended timeframe with years of data would provide a more insightful perspective. 📊🔍📅
 
-### References
+## References
 
 https://www.youtube.com/watch?v=KgCgpCIOkIs
 
