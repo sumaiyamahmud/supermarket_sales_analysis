@@ -19,14 +19,13 @@ Overall Sales Performance:
 
  According to the bar chart, Naypyitaw emerges as the top-performing city, showcasing superior sales performance and market leadership within the supermarket chain.
 
-
-Gross Income Variation:
-Exploring the gross income across branches and cities revealed insights into regional dynamics and economic trends.
-
 ### Product Analysis
 Product Categories and Sales:
 Identifying the stars and underdogs in product categories showcased the supermarket's market dominance and areas of growth.
 
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/07e7ba13-f792-4c12-a127-ef3dbcb924f1)
+
+Food and Beverages emerge as the top-selling category, while Health and Beauty, with its distinct offerings, records the lowest overall sales within the supermarket. 🍲💄
 Product Line Distribution:
 Unveiling the distribution of sales across different product lines provided a nuanced view of customer preferences and market demands.
 
