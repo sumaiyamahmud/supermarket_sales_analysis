@@ -21,13 +21,17 @@ Overall Sales Performance:
 
 ### Product Analysis
 Product Categories and Sales:
-Identifying the stars and underdogs in product categories showcased the supermarket's market dominance and areas of growth.
 
 ![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/07e7ba13-f792-4c12-a127-ef3dbcb924f1)
 
-Food and Beverages emerge as the top-selling category, while Health and Beauty, with its distinct offerings, records the lowest overall sales within the supermarket. 🍲💄
+Food and Beverages emerge as the top-selling category with over $50,000 in sales, while Health and Beauty, with its distinct offerings, records the lowest overall sales within the supermarket. The sales disparity among product categories is minimal, with subtle differences observed between their respective performances.
+
 Product Line Distribution:
 Unveiling the distribution of sales across different product lines provided a nuanced view of customer preferences and market demands.
+
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/5a0521b4-b9bc-435b-b75c-97fad8c8da04)
+
+Naypyitaw excels in Food, Electronics, and Fashion sales, demonstrating strong market performance. However, it falls behind in Home and Lifestyle sales. In contrast, Yangon City secures the top position in Home and Lifestyle purchases. 🌟🛒
 
 Trends in Product Categories:
 Our exploration extended to detecting trends and seasonal variations, with a specific focus on the Health and Beauty category.
