@@ -1,6 +1,6 @@
 # Supermarket Sales Analysis Project
 ## Overview
-Welcome to the Supermarket Sales Analysis project, where we delve into the heart of a bustling supermarket chain spanning three vibrant cities in India. Over the course of three months, we embarked on a data-driven journey to unravel the intricacies of sales performance, customer behavior, and product dynamics.
+Welcome to the Supermarket Sales Analysis project, where I delve into the heart of a bustling supermarket chain spanning three vibrant cities in India. For this self-guided project, I embarked on a data-driven journey to unravel the intricacies of sales performance, customer behavior, and product dynamics.
 
 
 ## Tools and Technologies Used
@@ -17,7 +17,7 @@ Overall Sales Performance:
 
 ![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/749aad06-5e3c-44f3-a2f8-b1f095364f98)
 
- According to the bar chart, Naypyitaw emerges as the top-performing city, showcasing superior sales performance and market leadership within the supermarket chain.
+According to the bar chart, Naypyitaw emerges as the top-performing city, showcasing superior sales performance and market leadership within the supermarket chain.
 
 ### Product Analysis
 Product Categories and Sales:
@@ -34,7 +34,7 @@ Unveiling the distribution of sales across different product lines provided a nu
 Naypyitaw excels in Food, Electronics, and Fashion sales, demonstrating strong market performance. However, it falls behind in Home and Lifestyle sales. In contrast, Yangon City secures the top position in Home and Lifestyle purchases. 🌟🛒
 
 Trends in Product Categories:
-Our exploration extended to detecting trends and seasonal variations, with a specific focus on the Health and Beauty category.
+My exploration extended to detecting trends and seasonal variations, with a specific focus on the Health and Beauty category.
 
 ### Customer Behavior
 Customer Segmentation:
