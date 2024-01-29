@@ -92,25 +92,72 @@ Comparing the performance of each branch unearthed key indicators of success and
 
 As the graph shows, Naypyitaw performs slightly better in terms of overall sales and gross income compared to the other two branches.
 
-![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/4dc8b162-4a20-4b13-b416-c31d79f90e64)
-
-
-
-Product Category Performance by Branch:
-Identifying specific product categories that outperformed in certain branches guides strategic stocking and marketing decisions.
-
 ### Customer Satisfaction
 Customer Satisfaction Variations:
 Examining customer satisfaction ratings across supermarkets and branches highlighted areas of excellence and improvement.
 
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/b373f6ef-30b6-48ff-90de-4c0ea2ac2a36)
+
+Overall, satisfaction ratings exhibit a subtle variance among branches, with all maintaining ratings comfortably above average. Notably, Naypyitaw secures the highest satisfaction score, emphasizing a collective positive shopping experience across all branches. 🌐🌟🛒
+
 Correlation with Product Category:
 Delving into the correlation between customer satisfaction and product categories, we deciphered intriguing insights from box plot comparisons.
 
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/ecf5f4fb-d989-42e9-a671-9e5b9df58398)
+
+Here's an interpretation of the graph above:
+
+Comparisons:
+
+•	Median (Central Tendency):
+
+•	The median represents the central tendency of the data. Products in the "Food and Beverages" category have the highest median (7.5), suggesting higher overall customer satisfaction. "Electronics" has the lowest median (6.7).
+
+•	Box Length (Spread):
+
+•	The length of the box (Interquartile Range) indicates the spread of the middle 50% of the data. "Food ad Beverages" and "Health and Beauty" have relatively wider spreads, while "Electronics" has a narrower spread.
+
+•	Whisker Range (Variability):
+
+•	The whiskers show the variability of the data outside the box. The whisker ranges are similar across categories.
+
+Correlation Assessment:
+
+•	Based on the provided information, it's challenging to determine a clear correlation between customer satisfaction and product category. The box plots provide insights into the distribution, central tendency, and variability, but additional statistical analysis may be needed for a more precise correlation assessment.
+
 ### Cost Analysis
+
 Gross Margin Percentage:
+
 Analyzing the gross margin percentage for different product categories provided a lens into profitability and cost dynamics.
+
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/f6771560-bd2d-4c05-bb2c-ffcbd09ffa5c)
+
+The analysis reveals a uniformity in gross margin percentages across all product categories, indicating a consistent profitability trend throughout the diverse range of offerings. 📊💰
 
 ### Long-Term Trends
 Long-Term Trends Identification:
-A comprehensive exploration sought to identify any long-term trends or patterns in sales over the three-month period.
+
+A comprehensive forecast for the upcoming three months has been meticulously conducted, shedding light on anticipated trends and paving the way for strategic planning. 📈🔮
+
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/1dfb60a6-c5d1-40a4-a708-e45536150c51)
+
+The forecast paints a challenging picture with an anticipated decrease in sales over the next three months. This insight underscores the need for proactive strategies and targeted efforts to overcome forthcoming challenges and enhance sales performance. 📉🔄💼
+
+### Limitations
+
+The analysis is constrained by a limited dataset spanning only three months, restricting a comprehensive understanding of both past and future trends. To gauge the business's true trajectory and performance, an extended timeframe with years of data would provide a more insightful perspective. 📊🔍📅
+
+### References
+
+[YouTube]https://www.youtube.com/watch?v=KgCgpCIOkIs
+[Seaborn Palettes]https://seaborn.pydata.org/tutorial/color_palettes.html
+
+
+
+
+
+
+
+
 
