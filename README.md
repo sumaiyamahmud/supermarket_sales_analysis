@@ -3,7 +3,7 @@
 Welcome to the Supermarket Sales Analysis project, where we delve into the heart of a bustling supermarket chain spanning three vibrant cities in India. Over the course of three months, we embarked on a data-driven journey to unravel the intricacies of sales performance, customer behavior, and product dynamics.
 
 ## Exploratory Data Analysis (EDA)
-Overall Performance
+### Overall Performance
 1. Overall Sales Performance:
 We set out to understand the holistic sales performance of each supermarket, unraveling the financial heartbeat of the chain.
 
