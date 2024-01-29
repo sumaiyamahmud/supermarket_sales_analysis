@@ -12,8 +12,13 @@ Download csv file - https://github.com/sumaiyamahmud/supermarket_sales_analysis/
 
 ## Exploratory Data Analysis (EDA)
 ### Overall Performance
+
 Overall Sales Performance:
-We set out to understand the holistic sales performance of each supermarket, unraveling the financial heartbeat of the chain.
+
+![image](https://github.com/sumaiyamahmud/supermarket_sales_analysis/assets/113713705/aeea97e3-3636-4759-8a1d-8fe588d89004)
+
+ According to the bar chart, Naypyitaw emerges as the top-performing city, showcasing superior sales performance and market leadership within the supermarket chain.
+
 
 Gross Income Variation:
 Exploring the gross income across branches and cities revealed insights into regional dynamics and economic trends.
